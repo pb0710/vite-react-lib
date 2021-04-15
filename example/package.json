@@ -1,0 +1,18 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "link:../node_modules/react",
+    "react-dom": "link:../node_modules/react-dom",
+    "vite-react-lib": "link:.."
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "link:../@vitejs/plugin-react-refresh",
+    "vite": "^2.1.5"
+  }
+}
