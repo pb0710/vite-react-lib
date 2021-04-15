@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import {Button} from 'vite-react-lib'
+import { Button } from 'vite-react-lib'
 
 function App() {
   return (
