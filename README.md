@@ -108,7 +108,7 @@ yarn build
 登录 npm 账户。
 
 ```bash
-npm publish
+npm login
 ```
 
 发布。
